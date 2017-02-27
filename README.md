@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=ZC5rLFw1ubc
 
 - Для просмотра запустить public/index.html (требует http).
 
-- Весь код js находиться в public/js/main.js, стили - в public/css/main.css . Минификацию в данном случае посчитал излишней.
+- Весь код js находиться в public/js/main.js, стили - в public/css/main.css, json-данные для запросов собраны в директории public/data . Минификацию в данном случае посчитал излишней.
 
 - Тестовое приложение состоит из трёх частей:
 
